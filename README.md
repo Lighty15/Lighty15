@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherin Lighty S</h1>
-<h3 align="center">First-year CS student passionate about Python and eager learner</h3>
+<h3 align="center">Third-year CS student passionate about Web development and eager learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lighty15&label=Profile%20views&color=0e75b6&style=flat" alt="lighty15" /> </p>
 
